@@ -1,0 +1,6 @@
+db/audipre.db
+db/audipre.db-journal
+public/uploads/*
+!public/uploads/.gitkeep
+node_modules
+.git
